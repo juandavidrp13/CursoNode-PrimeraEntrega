@@ -1,0 +1,1 @@
+El usuario juan con cedula de ciudadania 234567 se ha matriculado en  el curso Fisica Mecánica  identificado con el id 22 el cual tambien tiene una duracion de 5 semanas y un valor de 30000
